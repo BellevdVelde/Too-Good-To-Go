@@ -154,7 +154,7 @@ body.story .nav-story {
 }
 
 .index {
-    background-image: url(./afbeeldingen/background.png);
+    background-image: url(/afbeeldingen/background.png);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: center;
